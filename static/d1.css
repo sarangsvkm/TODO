@@ -1,0 +1,17 @@
+.banner{
+  background-color:lime;
+  width:100%;
+  height:150px;
+  margin-bottom:50px;
+
+}
+.banner-text{
+ top:50%;
+ left:50%;
+ position:absolute;
+ transform:transform;
+
+}
+.f1{
+background-color:aqua;
+}
